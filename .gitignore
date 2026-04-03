@@ -1,0 +1,29 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+venv/
+env/
+ENV/
+
+.env
+
+
+# MySQL
+*.sql
+
+
+.DS_Store
+Thumbs.db
+
+
+.vscode/
+.idea/
+
+
+# Logs
+*.log
